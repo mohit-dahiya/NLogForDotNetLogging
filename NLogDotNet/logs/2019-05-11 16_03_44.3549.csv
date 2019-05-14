@@ -1,0 +1,2 @@
+ResponseDateTime(UTC),ResponseCode,Action,TimeTaken(ms),ActivityId,ClientId,AuditUser,DeviceId,ResourceAccessed,TransactionDateTime(UTC),ServerName
+I am a Get Method.,L34685
